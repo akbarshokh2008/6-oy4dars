@@ -1,0 +1,29 @@
+.card {
+  background-color: #f7fcff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(38, 35, 35, 0.1);
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+  border: 1px solid #039be5;
+}
+
+.card h3 {
+  margin-bottom: 10px;
+  color: #0a7bd1;
+}
+
+.card p {
+  margin-bottom: 8px;
+  color: #0288d1;
+}
+
+.card span {
+  display: inline-block;
+  margin-right: 8px;
+  background-color: #81d4fa;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #01579b;
+}
